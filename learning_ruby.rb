@@ -94,7 +94,7 @@ else
 end
   
 #Assignment and Comparator (just like other languages: = assigns a value, == compares the values)
-true = 2 != 8 #true becausse 2 is not equal to 8
+true = 2 != 8 #true because 2 is not equal to 8
 false = 2 == 8 #false because when compared, 2 is not equal to 8
 
 #all will evaluate to true
