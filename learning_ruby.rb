@@ -1,6 +1,6 @@
 #Learning Ruby
 #Everything in Ruby is an object.
-#OOP; users can manipulate data structures called onjects to execute/build programs.
+#OOP; users can manipulate data structures called objects to execute/build programs.
 #Designed by Yukihiro Matsumoto(Matz) in 1995.
 
 print "Hello!"
